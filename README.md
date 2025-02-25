@@ -41,34 +41,34 @@ Passionate about developing AI solutions and exploring the frontiers of machine 
 
 ## 🚀 Featured Projects
 
-### PLC-SCADA-generator - 🔭 Current Project
+### [PLC-SCADA-generator](https://github.com/doubleman89/plc-scada-generator) - 🔭 Current Project
 - Implementing Clean Architecture principles
 - ✅ Completed - Developed robust parser for complex PLC data structures (UDT, DB) from AWL files using advanced regex patterns
 - 📝 Planned - Designing scalable code generation system for PLC and SCADA applications
 - Tech: Python, Regex, pytest, MongoDB 
 
-### Real Estate Website Scraper
+### [Real Estate Website Scraper](https://github.com/doubleman89/real-estate-scraper)
 - ✅ Completed - Scraping multiple pages with filtered query on demand using  Selenium & Celery
 - ✅ Completed - Data stored in Cassandra noSQL DB - for future use 
 - Tech: Python, Selenium, Celery, Cassandra,  Docker
 
-### AI-Powered Company Brochure Generator
+### [AI-Powered Company Brochure Generator](https://github.com/doubleman89/ai-powered-brochure)
 - ✅ Completed - Intelligent web crawler that autonomously analyzes company websites
 - ✅ Completed - Implemented LLM prompting strategy
 - ✅ Completed - Created pipeline for transforming unstructured web content into structured markdown format
 - Tech: Python, OpenAI API, Web Scraping Tools
 
 ## 📚 Education & Certifications
-- MIT - Introduction to Computational Thinking and Data Science (Online courses)
-- Machine Learning Specialization (Stanford Online / DeepLearning.AI)
-- Deep Learning Specialization (DeepLearning.AI)
-- TensorFlow Advanced Techniques Specialization (DeepLearning.AI)
-- Generative AI for Software Engineering (DeepLearning.AI)
-- AWS Cloud Technical Essentials
-- Intro to Data Engineering (DeepLearning.AI)
+- [MIT - Introduction to Computational Thinking and Data Science (Online courses)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- [Machine Learning Specialization (Stanford Online / DeepLearning.AI)](https://www.coursera.org/specializations/machine-learning-introduction) 
+- [Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/specializations/deep-learning)
+- [TensorFlow Advanced Techniques Specialization (DeepLearning.AI)](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+- [Generative AI for Software Development (DeepLearning.AI)](https://www.coursera.org/professional-certificates/generative-ai-for-software-development)
+- [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials)
+- [Intro to Data Engineering (DeepLearning.AI)](https://www.coursera.org/learn/intro-to-data-engineering)
  
 ## 🎯 Current Learning Goals
-- LLM Engineering (Udemy)  - 🌱 I’m currently learning
-- Hugging Face Agents Course
+- [LLM Engineering (Udemy)](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)  - 🌱 I’m currently learning
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction#introduction)
 - PyTorch
 - Data Engineering 
