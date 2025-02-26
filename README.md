@@ -34,10 +34,10 @@ Passionate about developing AI solutions and exploring the frontiers of machine 
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL
-- **AI/ML:** TensorFlow, Scikit-learn, Transformers, PyTorch,
+- **AI/ML:** TensorFlow, Scikit-learn, Transformers
 - **Data analysis and manipulation:**  NumPy, pandas, matplotlib
 - **Cloud Basics:** AWS , GCP 
-- **Tools:** Docker, Git, FastAPI, Flask 
+- **Tools:** Docker, Git, Django, Flask 
 
 ## 🚀 Featured Projects
 
@@ -62,7 +62,9 @@ Passionate about developing AI solutions and exploring the frontiers of machine 
 - [MIT - Introduction to Computational Thinking and Data Science (Online courses)](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [Machine Learning Specialization (Stanford Online / DeepLearning.AI)](https://www.coursera.org/specializations/machine-learning-introduction) 
 - [Deep Learning Specialization (DeepLearning.AI)](https://www.coursera.org/specializations/deep-learning)
+- [Sequences, Time Series and Prediction (DeepLearning.AI)](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
 - [TensorFlow Advanced Techniques Specialization (DeepLearning.AI)](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
+- [Clean Architecture in Python (educative.io)](https://www.educative.io/courses/clean-architecture-python)
 - [Generative AI for Software Development (DeepLearning.AI)](https://www.coursera.org/professional-certificates/generative-ai-for-software-development)
 - [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials)
 - [Intro to Data Engineering (DeepLearning.AI)](https://www.coursera.org/learn/intro-to-data-engineering)
