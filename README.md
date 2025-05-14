@@ -71,6 +71,6 @@ Passionate about developing AI solutions and exploring the frontiers of machine 
  
 ## 🎯 Current Learning Goals
 - [LLM Engineering (Udemy)](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/)  - 🌱 I’m currently learning
-- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction#introduction)
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction#introduction) - 🌱 I’m currently learning
 - PyTorch
 - Data Engineering 
